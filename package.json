@@ -1,0 +1,12 @@
+{
+  "name": "03_local_library_catalogue_system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@ocamilomontealegre",
+  "license": "ISC"
+}
