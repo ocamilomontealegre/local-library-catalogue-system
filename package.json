@@ -2,7 +2,6 @@
   "name": "03_local_library_catalogue_system",
   "version": "1.0.0",
   "description": "",
-  
   "main": "index.js",
   "scripts": {
     "start": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
@@ -14,6 +13,8 @@
   "author": "@ocamilomontealegre",
   "license": "ISC",
   "dependencies": {
-    "concurrently": "^8.2.2"
+    "concurrently": "^8.2.2",
+    "sweetalert2": "^11.10.5",
+    "sweetalert2-react-content": "^5.0.7"
   }
 }
