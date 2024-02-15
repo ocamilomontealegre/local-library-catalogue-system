@@ -1,5 +1,6 @@
 import { randomUUID } from 'node:crypto';
 import { findBookById } from '../utils/functions.js';
+import { database } from '../utils/database.js';
 
 
 // Create new book entry in the database
